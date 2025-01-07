@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, CSS, HTML, TelegramAPI**
 
-- 📫 How to reach me **Telegram : https://t.me/pontlif**
+- 📫 How to reach me **https://t.me/pontlif** *(Telegram)*
 
 - ⚡ Fun fact **love coca-cola**
 
