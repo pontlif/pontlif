@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gleb</h1>
+<h3 align="center">14y, I am interested in web programming and chatbot development.</h3>
 
-<!--
-**pontlif/pontlif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left"> Telegram : https://t.me/pontlif
+</p>
+<p align="left"> Discord : @pontlif
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> Python
+</p>
+<p align="left"></p>
