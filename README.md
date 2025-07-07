@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
-<h3 align="center">14y, I am interested in web programming and chatbot development.</h3>
+<h3 align="center">15y, I am interested in web programming and chatbot development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pontlif&label=Profile%20views&color=0e75b6&style=flat" alt="pontlif" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://t.me/pontlif** *(Telegram)*
 
-- ⚡ Fun fact **love coca-cola**
+- ⚡ Fun fact **love motorcycles**
 
 <h3 align="left">Connect with me:</h3>
 <p>Telegram : https://t.me/pontlif</p>
