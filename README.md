@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pontlif&label=Profile%20views&color=0e75b6&style=flat" alt="pontlif" /> </p>
 
-- 🔭 I’m currently working on **Telegram bot for school**
+- 🔭 I’m currently working on **Telegram bot & site for my project 'ТУСОВКА'**
 
 - 🌱 I’m currently learning **Python, JavaScript, CSS, HTML, TelegramAPI**
 
