@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
-<h3 align="center">15y, I am interested in web programming and chatbot development.</h3>
+<h3 align="center">16 y. o., I am interested in web programming and chatbot development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pontlif&label=Profile%20views&color=0e75b6&style=flat" alt="pontlif" /> </p>
 
-- 🔭 I’m currently working on **Telegram bot & site for my project 'ТУСОВКА'**
+- 🔭 I’m currently working on **Web platform for Sport Mafia**
 
-- 🌱 I’m currently learning **FastAPI, React, TelegramAPI, git**
+- 🌱 I’m currently learning **React, TelegramAPI, git, CI/CD, grafana & prometheus**
 
 - 📫 How to reach me **https://t.me/pontlif** *(Telegram)*
 
